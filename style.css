@@ -1,4 +1,29 @@
+
 .footer{
   margin-left : 80px;
   font-size : 18px;
+}
+.row_super{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  justify-items: center;
+
+}
+
+ .row_super img1{
+  background-color:khaki;
+  margin-top: 10%;
+  margin-left: 50%;
+  border: 5px;
+  padding:10%;
+  justify-content: space-evenly;
+  border-style: solid black;
+}
+h3,h5{
+  position: relative;
+ margin-left: 3%;
+ text-align: center;
+}
+.img1{
+  border: 2px solid silver;
 }
